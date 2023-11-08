@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as Software Engineer at CARRO<br>I’m looking to collaborate on Social Project using Laravel & PHP<br>I’m currently learning VueJS, ReactJS
+I’m currently working as Software Engineer at CARRO<br>I’m looking to collaborate on Social Project using Laravel & PHP
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@ I’m currently working as Software Engineer at CARRO<br>I’m looking to collab
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=projectwonki&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=projectwonki&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
