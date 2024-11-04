@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working as Software Engineer at CARRO<br>I’m looking to collaborate on Social Project using Laravel & PHP
+👋 Hello, I’m Nanda Prasetyo
+I’m a Software Engineer with over 7 years of experience in web application development, focusing on creating efficient, scalable solutions. I specialize in PHP (primarily with the Laravel framework) and JavaScript, developing high-performance applications and integrating with third-party APIs, including payment gateways.
+
+Currently, I’m part of the engineering team at Carro, Southeast Asia’s largest used car marketplace, where I contribute to building reliable, user-friendly web applications. I’m passionate about optimizing code, enhancing productivity for developers, and keeping up with the latest in backend technologies.
 
 
 ## 🌐 Socials:
